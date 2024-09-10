@@ -1,2 +1,3 @@
-print("C'est commit")
+message = "bombo"
 print("bombo")
+print("message" * 2)
